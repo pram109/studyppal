@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+
+/** Commit #3: HTML styles **/
+html {
+    background-color: #e9edc9;
+}
+/** End of Commit #3 **/
+
+/** Commit #5: body styles **/
+body {
+    background-color: #fefae0;
+    border-radius: 5%;
+    padding: 20px;
+}
+
+h1 {
+    color: #d4a373;
+}
+/** End of Commit #5 **/
+
+.calender {
+    background-color: #e9edc9;
+    padding: 2px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+li {
+    display: inline;
+}
+
+input {
+    color: #d4a373;
+    background-color: #e9edc9;
+    border-style: none;
+}
+
+input::placeholder {
+    color: #d4a373;
+}
+
+p {
+    color: #d4a373;
+}
+
+article {
+    background-color: #e9edc9;
+    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
